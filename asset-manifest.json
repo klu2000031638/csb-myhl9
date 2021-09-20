@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://klu2000031638.github.io/csb-myhl9/static/css/main.c4f4e6e2.chunk.css",
+    "main.js": "https://klu2000031638.github.io/csb-myhl9/static/js/main.897a3056.chunk.js",
+    "main.js.map": "https://klu2000031638.github.io/csb-myhl9/static/js/main.897a3056.chunk.js.map",
+    "runtime-main.js": "https://klu2000031638.github.io/csb-myhl9/static/js/runtime-main.d81f3c7e.js",
+    "runtime-main.js.map": "https://klu2000031638.github.io/csb-myhl9/static/js/runtime-main.d81f3c7e.js.map",
+    "static/css/2.55932136.chunk.css": "https://klu2000031638.github.io/csb-myhl9/static/css/2.55932136.chunk.css",
+    "static/js/2.85c2d0ef.chunk.js": "https://klu2000031638.github.io/csb-myhl9/static/js/2.85c2d0ef.chunk.js",
+    "static/js/2.85c2d0ef.chunk.js.map": "https://klu2000031638.github.io/csb-myhl9/static/js/2.85c2d0ef.chunk.js.map",
+    "index.html": "https://klu2000031638.github.io/csb-myhl9/index.html",
+    "static/css/2.55932136.chunk.css.map": "https://klu2000031638.github.io/csb-myhl9/static/css/2.55932136.chunk.css.map",
+    "static/css/main.c4f4e6e2.chunk.css.map": "https://klu2000031638.github.io/csb-myhl9/static/css/main.c4f4e6e2.chunk.css.map",
+    "static/js/2.85c2d0ef.chunk.js.LICENSE.txt": "https://klu2000031638.github.io/csb-myhl9/static/js/2.85c2d0ef.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d81f3c7e.js",
+    "static/css/2.55932136.chunk.css",
+    "static/js/2.85c2d0ef.chunk.js",
+    "static/css/main.c4f4e6e2.chunk.css",
+    "static/js/main.897a3056.chunk.js"
+  ]
+}
